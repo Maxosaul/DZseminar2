@@ -1,0 +1,15 @@
+D:\YandexDisk\Education\DZseminar2\task 13\obj\Debug\net6.0\task 13.csproj.AssemblyReference.cache
+D:\YandexDisk\Education\DZseminar2\task 13\obj\Debug\net6.0\task 13.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\Education\DZseminar2\task 13\obj\Debug\net6.0\task 13.AssemblyInfoInputs.cache
+D:\YandexDisk\Education\DZseminar2\task 13\obj\Debug\net6.0\task 13.AssemblyInfo.cs
+D:\YandexDisk\Education\DZseminar2\task 13\obj\Debug\net6.0\task 13.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Education\DZseminar2\task 13\bin\Debug\net6.0\task 13.exe
+D:\YandexDisk\Education\DZseminar2\task 13\bin\Debug\net6.0\task 13.deps.json
+D:\YandexDisk\Education\DZseminar2\task 13\bin\Debug\net6.0\task 13.runtimeconfig.json
+D:\YandexDisk\Education\DZseminar2\task 13\bin\Debug\net6.0\task 13.dll
+D:\YandexDisk\Education\DZseminar2\task 13\bin\Debug\net6.0\task 13.pdb
+D:\YandexDisk\Education\DZseminar2\task 13\obj\Debug\net6.0\task 13.dll
+D:\YandexDisk\Education\DZseminar2\task 13\obj\Debug\net6.0\refint\task 13.dll
+D:\YandexDisk\Education\DZseminar2\task 13\obj\Debug\net6.0\task 13.pdb
+D:\YandexDisk\Education\DZseminar2\task 13\obj\Debug\net6.0\task 13.genruntimeconfig.cache
+D:\YandexDisk\Education\DZseminar2\task 13\obj\Debug\net6.0\ref\task 13.dll
